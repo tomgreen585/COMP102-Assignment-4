@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PatternsDrawer
+comment0.text=\ PatternsDrawer\:\ \nDraws\ four\ different\ repetitive\ patterns.
+comment1.params=
+comment1.target=void\ drawRow()
+comment1.text=\ \n\ Draws\ a\ row\ pattern\ consisting\ of\ a\ row\ of\ filled\ rectangles,\n\ \ \ alternating\ between\ the\ colours\ blue\ and\ orange\n\ Asks\ the\ user\ for\ the\ number\ of\ rectangles.\n
+comment2.params=
+comment2.target=void\ drawDraughtsBoard()
+comment2.text=\ Draw\ a\ checkered\ board\ with\ alternating\ black\ and\ white\ squares\n\ \ \ \ Asks\ the\ user\ for\ the\ number\ of\ squares\ on\ each\ side\n\n\ CORE\n
+comment3.params=
+comment3.target=void\ drawTriGrid()
+comment3.text=\ TriGrid\n\ a\ triangular\ grid\ of\ squares\ that\ makes\ dark\ circles\ appear\ \n\ in\ the\ intersections\ when\ you\ look\ at\ it.\n\n\ COMPLETION\n
+comment4.params=
+comment4.target=void\ setupGUI()
+comment5.params=arguments
+comment5.target=void\ main(java.lang.String[])
+numComments=6
